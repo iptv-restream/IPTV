@@ -179,3 +179,5 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VUSLAT TV
 http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW TV" tvg-logo="http://www.ecanlihdtvizle.com/wp-content/uploads/2012/08/showhd.png" group-title="Family",SHOW TV (Family) (TR) (Turkish)
+http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
