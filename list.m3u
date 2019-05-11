@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~ Islam
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM",Al Quran Al Karim (KSA)
+http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM",Al Quran Al Karim (KSA)*
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM",Makkah TV (KSA)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM",Makkah TV (KSA)*
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Al-Resalah.jpg" group-title="ISLAM",Al Resalah (Kuwait)
+http://199.167.151.237:1935/live/sp15_28.stream/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="Saudi Arabia(السعودية)",22 TV
 http://62.210.141.179:8000/ibrahim/123456/1215
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia(السعودية)",Ahel Al Quran
