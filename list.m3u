@@ -54,7 +54,7 @@ http://62.210.141.179:8000/ibrahim/123456/222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zad.tv/wp-content/uploads/2015/04/logo.png" group-title="Saudi Arabia(السعودية)",ZAD
 http://62.210.141.179:8000/ibrahim/123456/129
 
-#EXTINF:-1 group-title="LABEL",~~~~~~TÜRKISCH 1~~~~~~
+#EXTINF:-1 ~~~~~~TÜRKISCH 1~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzg0NWNjODg4OTI.png",TR:TRT 1 FHD
 https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/chunklist_b2596000_sltur.m3u8
@@ -117,7 +117,7 @@ https://mn-nl.mncdn.com/blutv_live/dreamturk/dreamturk.smil/chunklist_b1596000_s
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="http://flashresim.com/upload/MTVjY2NiMWI4YjU4Yjk.jpg",TR:TRT COCUK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="LABEL",~~~~~~TÜRKISCH 2~~~~~~
+#EXTINF:-1 ~~~~~~TÜRKISCH 2~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YmI1OGUwMDA.jpg",TR:SHOW TV FHD
 https://blutv-beta.akamaized.net/showhd/showtvhd.smil/chunklist_b2628000_sltur.m3u8
