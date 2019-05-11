@@ -29,32 +29,6 @@ http://192.226.228.32:8080/hls/catv/index.m3u8
 http://live.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/5022/d1_tv_sa.png" group-title="Saudi Arabia(السعودية)",Dewan TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/93.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190290035643.jpg" group-title="Saudi Arabia(السعودية)",DMM TV
-http://62.210.141.179:8000/ibrahim/123456/110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 1
-http://62.210.141.179:8000/ibrahim/123456/7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190281502385.png" group-title="Saudi Arabia(السعودية)",Doros 10
-http://62.210.141.179:8000/ibrahim/123456/16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190281502385.png" group-title="Saudi Arabia(السعودية)",Doros 11
-http://62.210.141.179:8000/ibrahim/123456/17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190281502385.png" group-title="Saudi Arabia(السعودية)",Doros 12
-http://62.210.141.179:8000/ibrahim/123456/18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 2
-http://62.210.141.179:8000/ibrahim/123456/8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 3
-http://62.210.141.179:8000/ibrahim/123456/9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 4
-http://62.210.141.179:8000/ibrahim/123456/10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 5
-http://62.210.141.179:8000/ibrahim/123456/11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190285586556.png" group-title="Saudi Arabia(السعودية)",Doros 6
-http://62.210.141.179:8000/ibrahim/123456/12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190284217240.png" group-title="Saudi Arabia(السعودية)",Doros 7
-http://62.210.141.179:8000/ibrahim/123456/13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190284217240.png" group-title="Saudi Arabia(السعودية)",Doros 8
-http://62.210.141.179:8000/ibrahim/123456/14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190284217240.png" group-title="Saudi Arabia(السعودية)",Doros 9
-http://62.210.141.179:8000/ibrahim/123456/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="SAUDI ARABIA",DW Arabic (Germany)
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297818852.png" group-title="Saudi Arabia(السعودية)",Kaifa
