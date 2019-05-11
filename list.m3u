@@ -54,7 +54,70 @@ http://62.210.141.179:8000/ibrahim/123456/222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zad.tv/wp-content/uploads/2015/04/logo.png" group-title="Saudi Arabia(السعودية)",ZAD
 http://62.210.141.179:8000/ibrahim/123456/129
 
-#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~~~~~~TÜRKISCH~~~~~~
+#EXTINF:-1 group-title="LABEL",~~~~~~TÜRKISCH 1~~~~~~
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzg0NWNjODg4OTI.png",TR:TRT 1 FHD
+https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/chunklist_b2596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YTg5Njc5M2M.jpg",TR: ATV FHD
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YmI1OGUwMDA.jpg",TR:SHOW TV FHD
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KANAL D FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YzcxYWUxMGI.png",TR: KANAL D FHD
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/chunklist_b2628000_slturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:STAR TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZDU1NjhlOWQ.png",TR: STAR TV FHD
+https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 HD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZThiNGFiY2Q.png",TR: TV 8  HD
+https://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8.5 HD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZmEyNDQ4M2M.png",TR: TV 8.5  HD
+https://blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FOX TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2MDc2YzgyOWI.png",TR: FOX TV  FHD
+https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FX TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYzhhNWIzNWE.jpg",TR: FX TV FHD
+https://blutv-beta.akamaized.net/fx/fx.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEYAZ TV HD" tvg-logo="http://flashresim.com/upload/MTVjY2EwNGNhZTc2Yjc.png",TR:BEYAZ TV HD
+https://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TEVE 2 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2MWY3Njk4N2Q.png",TR: TEVE 2 FHD
+https://blutv-beta.akamaized.net/teve2hd/teve2hd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 FHD" tvg-logo="http://flashresim.com/upload/MTVjY2NhY2MzZThhNGM.jpg",TR: A2 FHD
+https://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NTV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzg0NWViOTFkMTQ.png",TR: NTV FHD
+https://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT HABER HD" tvg-logo="http://flashresim.com/upload/MTVjYzg0OGZjODY5MDg.png",TR:TGRT HABER HD
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w479861623_b1200096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A HABER FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2NjliMzg3ODY.png",TR:A HABER HD
+https://mn-nl.mncdn.com/blutv_live/ahaber/ahaber.smil/chunklist_b2628000_sltur.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:ULKE TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzNjJmNjIzNzM.jpg",TR:ULKE TV HD
+https://blutv-beta.akamaized.net/ulketvhd/ulketvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABER TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzNjY1YjNjMDA.png",TR:HABER TURK HD
+https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CNN TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYjljOGQyNTQ.jpg",TR:CNN TURK HD
+https://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/chunklist_b2628000_slturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABER GLOBAL FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYmQxODVlNjI.jpg",TR:HABER GLOBAL HD
+https://eijxuuic.rocketcdn.com/chunklist_b478000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINE 5 HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzODE1YjY4M2Q.png",TR:CINE 5 HD
+http://win1.yayin.com.tr/cine5/cine5/chunklist_w1469063563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 24 HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzODNlYTEyNmU.png",TR:TV 24 HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV360 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzMDRhYjllNTE.png",TR:TV360 HD
+https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyKCLJEXlkELMPEukwZH_puo)/dm/3/x648uq8/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzZDI3NGY0NjU.png",TR:DMAX HD
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TLC HD" tvg-logo="http://flashresim.com/upload/MTVjY2NhYjk3ZGM4NDM.jpg",TR:TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL FHD" tvg-logo="http://flashresim.com/upload/MTVjY2NiMGIxNWQwOGM.jpg",TR:TRT BELGESEL FHD
+https://mn-nl.mncdn.com/blutv_live/trtbelgesel/trtbelgesel.smil/chunklist_b2628000_slturk.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:POWER TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYTA3NWU0YWI.jpg",TR:POWER TURK HD
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KRAL TV HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYTgyZTczM2I.jpg",TR:KRAL TV HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KRALPOP HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYWUxY2ZkNzI.png",TR:KRALPOP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DREAM TURK HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYjQzODQwM2Q.jpg",TR:DREAM TURK HD
+https://mn-nl.mncdn.com/blutv_live/dreamturk/dreamturk.smil/chunklist_b1596000_sltur.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="http://flashresim.com/upload/MTVjY2NiMWI4YjU4Yjk.jpg",TR:TRT COCUK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LABEL",~~~~~~TÜRKISCH 2~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YmI1OGUwMDA.jpg",TR:SHOW TV FHD
 https://blutv-beta.akamaized.net/showhd/showtvhd.smil/chunklist_b2628000_sltur.m3u8
