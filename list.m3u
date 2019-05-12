@@ -1,18 +1,95 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~~~~~~ARABISCH~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8?v=
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2000000.m3u8?v=
-#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=852x480,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b1600000.m3u8?v=
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b1200000.m3u8?v=
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x240,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b800000.m3u8?v=
-#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=284x160,CLOSED-CAPTIONS=NONE
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b400000.m3u8?v=
+
+#EXTINF:-1,MBC1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1,MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1,MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1,MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1,MBC MASR
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1,MBCMASER2
+http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,MBC DRAMA
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1,MTV lebanon 
+https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8
+#EXTINF:-1,LDC 
+http://livecdnh2.tvanywhere.ae/hls/ldc/04.m3u8
+#EXTINF:-1,LBC SAT 
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1,Aljadeed 
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:-1,NBN 
+http://livecdnh2.tvanywhere.ae/hls/nbn/04.m3u8
+#EXTINF:-1,OTV 
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+#EXTINF:-1,FUTURE 
+http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
+#EXTINF:-1,Rotana classic 
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1,Rotana aflam 
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1,Rotana cinema 
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1,Rotana masrya drama 
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1,Rotana khalijiah 
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1,Rotana clip 
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1,====[documentary] Quest=============================
+#EXTINF:-1,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+ #EXTINF:-1,Nat geo sd
+http://adtv.ercdn.net/adnatgeo/adnatgeo_360p.m3u8?v=3296041730
+#EXTINF:-1,Nat geo hd
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=3296041730
+#EXTINF:-1,NAT GEO PEOPLE AR
+http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO PROPLE HD ARABIC
+http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
+#EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,Discovery showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,Nat geo hd
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,Animal planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,ANIMAL LIFE
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1,HDTV
+http://95.170.215.120/hls/m3u8/HGTV-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN TLC
+http://95.170.215.120/hls/m3u8/TLC-HD.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,FATAFEAT
+http://109.236.92.216:9090/Fatafeat/mpegts
+#EXTINF:-1,CBC SOFRA
+http://109.236.92.216:9090/cbc_sofra/mpegts
+#EXTINF:-1, Alarabiya 
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="Saudi Arabia(السعودية)",22 TV
 http://62.210.141.179:8000/ibrahim/123456/1215
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia(السعودية)",Ahel Al Quran
