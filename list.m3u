@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~~~~~~ARABISCH~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8?v=
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2000000.m3u8?v=
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=852x480,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b1600000.m3u8?v=
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b1200000.m3u8?v=
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x240,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b800000.m3u8?v=
+#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=284x160,CLOSED-CAPTIONS=NONE
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b400000.m3u8?v=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="Saudi Arabia(السعودية)",22 TV
 http://62.210.141.179:8000/ibrahim/123456/1215
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia(السعودية)",Ahel Al Quran
